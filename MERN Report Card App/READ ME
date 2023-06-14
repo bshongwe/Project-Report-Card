@@ -1,0 +1,32 @@
+READ ME
+
+# MERN stack + MySQL Application
+
+// 1. Set up the backend directory and initialize a new Node.js project
+	# Make all reference to the Back End folder
+
+
+// 2. Install the required dependencies (run the following code in the terminal):
+<code>npm install express mysql body-parser cors</code>
+
+
+
+// 3. Replace 'your_mysql_user', 'your_mysql_password', and 'your_database_name' with your MySQL credentials and database information.
+
+
+
+// 4. Initialize React.js project (check BASH code)
+
+
+
+// 5. Install Axios to make API requests (run the following code in the terminal):
+<code>npm install axios</code>
+
+
+
+// 6. Replace the content of src/App.js with code in 'replacement_App.js'
+
+
+
+// 7. Start the development server (run the following code in the terminal):
+<code>npm start</code>
